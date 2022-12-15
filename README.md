@@ -27,3 +27,19 @@ TABLE OF CONTENTS
 9. CONCLUSION
 
 10. END
+
+
+
+Data Definition (Customer finance data)
+
+Here's a brief version of what you'll find in the data
+
+Cust_Number: Unique customer identification number
+
+Yearly_Income: Annual income of the customer
+
+Age: Age of the customer
+
+Cust_Spend_Score: Spending score of the customer
+
+Sex: Gender of the customer (0 = male, 1 = female)
