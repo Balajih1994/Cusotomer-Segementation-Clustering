@@ -34,12 +34,12 @@ Data Definition (Customer finance data)
 
 Here's a brief version of what you'll find in the data
 
-Cust_Number: Unique customer identification number
+1.Cust_Number: Unique customer identification number
 
-Yearly_Income: Annual income of the customer
+2.Yearly_Income: Annual income of the customer
 
-Age: Age of the customer
+3.Age: Age of the customer
 
-Cust_Spend_Score: Spending score of the customer
+4.Cust_Spend_Score: Spending score of the customer
 
-Sex: Gender of the customer (0 = male, 1 = female)
+5.Sex: Gender of the customer (0 = male, 1 = female)
